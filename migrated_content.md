@@ -18,7 +18,7 @@ type: tool
 <tbody>
 <tr class="odd">
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{Template:Project_About</p></td>
+<p><span style="color:#ff0000"> Template:Project_About</p></td>
 <td><p>project_name=Patton</p></td>
 <h2 id="owasp_tool_project_template">OWASP Tool Project Template</h2>
 <p><span style="color:#ff0000"></p>
