@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Daniel Garcia](mailto:daniel.garcia@owasp.org)
+* [Daniel Garcia (cr0hn)](mailto:cr0hn@cr0hn.com)
