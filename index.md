@@ -11,7 +11,7 @@ level: 2
 
 [![GitHub Releases](https://img.shields.io/github/v/release/BBVA/kapow?include_prereleases)](https://github.com/BBVA/patton/releases)
 
-## Patton - The vulnerability knowledge store
+## Patton - The vulnerability knowledge base
 
 Patton is a set of tools for helping admins and security auditors to search for
 vulnerabilities in software components and computer systems.
