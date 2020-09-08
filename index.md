@@ -17,8 +17,8 @@ Patton is a set of tools for helping admins and security auditors to search for
 vulnerabilities in software components and computer systems.
 
 Patton contains, at this moment, the tools needed to analyze vulnerabilities on
-Ubuntu and Debian systems and we are currently working on increasing the
-targets to include Redhat systems and Python dependencies.
+Ubuntu, Debian and RHEL 8 or newer systems and we are currently working on increasing the
+targets to include Python dependencies.
 
 ## Description
 
