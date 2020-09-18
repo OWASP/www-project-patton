@@ -12,7 +12,7 @@
 
 
 ### Code Repository
-* [Source code](https://github.com/BBVA/patton/)
+* [Github](https://github.com/BBVA/patton/)
 
 ### Helping Patton!
 * [Report an issue](https://github.com/BBVA/patton/issues)
