@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Examples
 layout:  null
 tab: true
 order: 1
@@ -28,7 +28,7 @@ $ install patton /usr/local/bin/patton
 ```
 
 By default Patton looks for its database in the current directory, if not the
-`` -d `` option flag can be used to give it the database location.
+`-d` option flag can be used to give it the database location.
 
 ## Examples
 
@@ -60,6 +60,14 @@ patton -t pkg_debian < /var/lib/dpkg/status
 ```bash
 patton -t pkg_ubuntu < /var/lib/dpkg/status
 ```
+
+### Search for vulnerabilities in a Red Hat Enterprise Linux
+
+```bash
+patton -t pkg_rhel
+```
+
+**NOTE**: Have to be run on RHEL 8 or newer
 
 ### Search for vulnerabilities with a free-format string
 
