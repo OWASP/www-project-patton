@@ -10,7 +10,7 @@ pitch: The vulnerability knowledge database
 ---
 ![Patton](/assets/images/patton-logo.png)
 
-[![GitHub Releases](https://img.shields.io/github/v/release/BBVA/patton?include_prereleases)](https://github.com/BBVA/patton/releases)
+[![GitHub Releases](https://img.shields.io/github/v/release/OWASP/Patton?include_prereleases)](https://github.com/OWASP/Patton/releases)
 
 ## Patton - The vulnerability knowledge database
 
@@ -38,8 +38,8 @@ a single interface to invoke all the tools in a consistent way.
 
 ## Contribution
 
-Everyone is welcome and encouraged to participate in our [Project](https://github.com/BBVA/patton).
+Everyone is welcome and encouraged to participate in our [Project](https://github.com/OWASP/Patton).
 
 ## Licensing
 
-This project is distributed under [Apache 2 license](https://github.com/bbva/patton/raw/master/LICENSE).
+This project is distributed under [Apache 2 license](https://github.com/OWASP/Patton/raw/master/LICENSE).

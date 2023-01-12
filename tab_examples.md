@@ -22,8 +22,8 @@ After installing the dependencies run the following commands in order to finish
 the installation.
 
 ```bash
-$ wget https://github.com/BBVA/patton/releases/download/latest/patton.db.zst
-$ wget https://github.com/BBVA/patton/raw/develop/bin/patton
+$ wget https://github.com/OWASP/Patton/releases/download/latest/patton.db.zst
+$ wget https://github.com/OWASP/Patton/raw/develop/bin/patton
 $ install patton /usr/local/bin/patton
 ```
 
