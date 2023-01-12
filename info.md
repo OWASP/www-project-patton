@@ -7,16 +7,16 @@
 * [Home page](https://owasp.org/www-project-patton/)
 
 ### Downloads
-* [Patton releases](https://github.com/BBVA/patton/releases)
+* [Patton releases](https://github.com/OWASP/Patton/releases)
 <!-- * [Docker Image](https://hub.docker.com/r/bbvalabs/patton-server) -->
 
 
 ### Code Repository
-* [Github](https://github.com/BBVA/patton/)
+* [Github](https://github.com/OWASP/Patton/)
 
 ### Helping Patton!
-* [Report an issue](https://github.com/BBVA/patton/issues)
-<!-- * [Contributing to Patton](https://github.com/BBVA/patton/CONTRIBUTING) -->
+* [Report an issue](https://github.com/OWASP/Patton/issues)
+<!-- * [Contributing to Patton](https://github.com/OWASP/Patton/CONTRIBUTING) -->
 
 #### Classification
 
